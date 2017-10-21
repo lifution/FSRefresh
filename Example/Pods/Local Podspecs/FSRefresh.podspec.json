@@ -1,0 +1,25 @@
+{
+  "name": "FSRefresh",
+  "version": "0.1.0",
+  "summary": "A short description of FSRefresh.",
+  "homepage": "https://github.com/lifusheng/FSRefresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lifusheng": "lifution@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/lifusheng/FSRefresh.git",
+    "tag": "0.1.0"
+  },
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "resources": "FSRefresh/Assets/*",
+  "source_files": "FSRefresh/Classes/**/*"
+}

@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'FSRefresh_Example' do
   pod 'FSRefresh', :path => '../'
-
-  target 'FSRefresh_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
